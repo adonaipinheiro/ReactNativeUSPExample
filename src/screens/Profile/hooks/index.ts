@@ -1,1 +1,0 @@
-export { useProfile } from './useProfile';
